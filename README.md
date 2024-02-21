@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Admin Dashboard for the Library Management System is a powerful tool designed to streamline the management of library resources. By combining Formik, Axios, React Router, and Bootstrap, the dashboard offers a seamless, efficient, and enjoyable experience for library administrators. This system not only simplifies the management of books and authors but also ensures data accuracy and system usability, making it an invaluable asset for any library.
